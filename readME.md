@@ -13,9 +13,13 @@
       - `First of all, let's define our full name through this comand ( replace "Enter your full name here" with your real name`:
       - `Use this comand -> git config --global user.name "Enter your full name here" `:
       - `Next, we specify the e-mail with which we created our GitHub account ( replace "yourEmail@server.com" whith your real Email)`:
-### Git commands for your repository
 
-- `git status`: 
-- `git add .`:+
-- `git commit -m "message"`:
-- `git push`:  
+### Git commands for your repository
+- `git init `(If we want to initialize or create a new local repository, first we need to create the folder in which this project is going to be stored. Then, we can initialize it as a Git repository with this command (from inside project folder)): 
+- `git clone <with-name-our-repository> `(git clone is a command to download the existing source code from a remote repository (such as Github, for example).):
+- `git branch <branch-name>`(We can use the git branch command to create, list and delete them.)
+- `git status`(The git status command gives us all the necessary information about the current branch.): 
+- `git add .<name file>`(When we create, modify or delete a file, these changes happen locally and will not be included in the next commit (unless we change the configuration). We need to use the git add command to include the changes to the file(s) in your next commit.):
+- `git commit -m "message"`(Git commit is like setting a checkpoint in the development process that you can return to later if necessary. We also need to write a short message to explain what we have developed or modified in the source code.):
+- `git show` (this shows the changes made in the last commit):
+- `git push`(Git push sends your commits to the remote repository.):  
