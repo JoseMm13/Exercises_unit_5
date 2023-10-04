@@ -1,4 +1,5 @@
 In this exercise you are going to work with your Git repository in order to maintain updated some files.
+
 1. Create a new, public repository called Exercise_unit_5
 
 2. You will be provided with some files that you have to upload to your repository. 
@@ -11,4 +12,28 @@ In this exercise you are going to work with your Git repository in order to main
 
 6.  You will add another file and upload it to your repository using this time the console commands of Git to upload this new file. This message must be “Commit for step 6”. 
 
-7.  You will provide the link of your repository in this task delivery, so that we will be able to see the result of your work and the commits performed. 8. You will provide also a txt file with the Git commands that you have used to update your repository in steps 5 and 6. 
+7.  You will provide the link of your repository in this task delivery, so that we will be able to see the result of your work and the commits performed. 
+
+8. You will provide also a txt file with the Git commands that you have used to update your repository in steps 5 and 6. 
+
+TRADUCCION EN ESPAÑOL
+
+En este ejercicio vas a trabajar con tu repositorio Git para mantener actualizados algunos ficheros.
+
+1. Crea un repositorio nuevo y público llamado Ejercicio_unidad_5
+
+2. Se te proporcionarán algunos archivos que tendrás que subir a tu repositorio. 
+
+3.  Modificarás uno de estos ficheros y subirás los cambios a tu repositorio con el mensaje "Commit for step 3". Por ejemplo, puede añadir una nueva línea o modificar una existente. Para subir los cambios, puedes utilizar GitKraken, Visual Studio Code o la línea de comandos si lo prefieres, utilizando las acciones Git adecuadas en cada caso. 
+
+4. Añadirás un nuevo archivo (un .txt por ejemplo) a tu repositorio, y subirás los cambios de la misma forma que hiciste en el paso 3, con el mensaje "Commit for step 4". 
+
+5.  Modificarás otro fichero y subirás los cambios a tu repositorio utilizando esta vez los comandos de consola de Git para subir este fichero modificado. El mensaje debe ser "Commit para el paso 5". 
+
+6.  6. Añadirás otro fichero y lo subirás a tu repositorio utilizando esta vez los comandos de consola de Git para subir este nuevo fichero. El mensaje debe ser "Commit para el paso 6". 
+
+7.  Proporcionarás el enlace de tu repositorio en esta entrega de tareas, para que podamos ver el resultado de tu trabajo y los commits realizados.
+
+ 8. Proporcionarás también un archivo txt con los comandos Git que has utilizado para actualizar tu repositorio en los pasos 5 y 6. 
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
